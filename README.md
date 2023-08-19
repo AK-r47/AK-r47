@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AK-r47
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning JS
